@@ -1,37 +1,37 @@
-# 📱 Sociallife
+# SocialLife
 
 ![image 4](https://github.com/VictorBravim/Sociallife/assets/122113588/0188135d-6657-433f-a6f4-1952fa791ba7)
 
-## 🚀 Overview
+## <code>Introdução</code>
 
-Sociallife is a social media promotion service developed using React and Next.js.
+Sociallife é um projeto básico de website desenvolvido usando React e Next.js, para servir como estudo e prática de estrutura front-end.
 
-## 📋 Requirements
+## <code>Pré-requisitos</code>
 
 - Node.js
 - npm ou yarn
 
-## 🔧 Installation
+## <code>Configuração</code>
 
-1. Clone this repository:
+1. Clone este repositório:
    
 ```
 git clone https://github.com/VictorBravim/Sociallife.git
 ```
 
-2. Navigate to the project directory:
+2. Navegue até o diretório do projeto:
    
 ```
 cd Sociallife
 ```
 
-3. Install dependencies:
+3. Instale dependências:
    
 ```
 npm install
 ```
 
-## 🛠️ Project Structure
+## <code>Estrutura</code>
 
 - Nav.tsx
 - Hero.tsx
@@ -41,9 +41,9 @@ npm install
 - Servico.tsx
 - Footer.tsx
 
-## 📄 License
+## <code>Licença</code>
 
-- This project is licensed under the [MIT License](LICENSE).
+- Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 
 
